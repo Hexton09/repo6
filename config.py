@@ -1,0 +1,6 @@
+customhost = "database1.ci9cl96hqxwx.ap-south-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "bloodreaper12345"
+customdb = "employee"
+custombucket = "empbuk"
+customregion = "ap-south-1"
